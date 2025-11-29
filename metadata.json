@@ -1,0 +1,8 @@
+{
+  "name": "Project Harmony Ollama",
+  "description": "A comprehensive set of AI tools for artists to create digital music concepts, write lyrics, and generate album art.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
